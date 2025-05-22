@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\bin\Debug\net8.0\BinaryGap.exe
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\bin\Debug\net8.0\BinaryGap.deps.json
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\bin\Debug\net8.0\BinaryGap.runtimeconfig.json
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\bin\Debug\net8.0\BinaryGap.dll
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\bin\Debug\net8.0\BinaryGap.pdb
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\BinaryGap.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\BinaryGap.AssemblyInfo.cs
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\BinaryGap.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\BinaryGap.dll
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\refint\BinaryGap.dll
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\BinaryGap.pdb
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\BinaryGap.genruntimeconfig.cache
+C:\Users\joris\source\repos\CodilityAwnsers\BinaryGap\BinaryGap\BinaryGap\obj\Debug\net8.0\ref\BinaryGap.dll
