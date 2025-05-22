@@ -1,0 +1,15 @@
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\OddOccurrencesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\OddOccurrencesInArray.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\OddOccurrencesInArray.AssemblyInfo.cs
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\OddOccurrencesInArray.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\OddOccurrencesInArray.sourcelink.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net8.0\OddOccurrencesInArray.exe
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net8.0\OddOccurrencesInArray.deps.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net8.0\OddOccurrencesInArray.runtimeconfig.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net8.0\OddOccurrencesInArray.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\net8.0\OddOccurrencesInArray.pdb
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\OddOccurrencesInArray.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\refint\OddOccurrencesInArray.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\OddOccurrencesInArray.pdb
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\OddOccurrencesInArray.genruntimeconfig.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\net8.0\ref\OddOccurrencesInArray.dll
