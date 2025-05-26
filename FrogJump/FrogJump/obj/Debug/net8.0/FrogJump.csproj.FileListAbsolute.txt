@@ -1,0 +1,15 @@
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\bin\Debug\net8.0\FrogJump.exe
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\bin\Debug\net8.0\FrogJump.deps.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\bin\Debug\net8.0\FrogJump.runtimeconfig.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\bin\Debug\net8.0\FrogJump.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\bin\Debug\net8.0\FrogJump.pdb
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\FrogJump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\FrogJump.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\FrogJump.AssemblyInfo.cs
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\FrogJump.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\FrogJump.sourcelink.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\FrogJump.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\refint\FrogJump.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\FrogJump.pdb
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\FrogJump.genruntimeconfig.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\FrogJump\FrogJump\obj\Debug\net8.0\ref\FrogJump.dll
