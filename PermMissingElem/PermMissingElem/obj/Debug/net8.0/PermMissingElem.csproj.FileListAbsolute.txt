@@ -1,0 +1,15 @@
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\bin\Debug\net8.0\PermMissingElem.exe
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\bin\Debug\net8.0\PermMissingElem.deps.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\bin\Debug\net8.0\PermMissingElem.runtimeconfig.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\bin\Debug\net8.0\PermMissingElem.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\bin\Debug\net8.0\PermMissingElem.pdb
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\PermMissingElem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\PermMissingElem.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\PermMissingElem.AssemblyInfo.cs
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\PermMissingElem.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\PermMissingElem.sourcelink.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\PermMissingElem.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\refint\PermMissingElem.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\PermMissingElem.pdb
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\PermMissingElem.genruntimeconfig.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\PermMissingElem\PermMissingElem\obj\Debug\net8.0\ref\PermMissingElem.dll
