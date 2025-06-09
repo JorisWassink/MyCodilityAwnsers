@@ -1,0 +1,15 @@
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\bin\Debug\net8.0\TapeEquilibrium.exe
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\bin\Debug\net8.0\TapeEquilibrium.deps.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\bin\Debug\net8.0\TapeEquilibrium.runtimeconfig.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\bin\Debug\net8.0\TapeEquilibrium.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\bin\Debug\net8.0\TapeEquilibrium.pdb
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\TapeEquilibrium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\TapeEquilibrium.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\TapeEquilibrium.AssemblyInfo.cs
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\TapeEquilibrium.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\TapeEquilibrium.sourcelink.json
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\TapeEquilibrium.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\refint\TapeEquilibrium.dll
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\TapeEquilibrium.pdb
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\TapeEquilibrium.genruntimeconfig.cache
+C:\Users\joris\source\repos\MyCodilityAwnsers\TapeEquilibrium\TapeEquilibrium\obj\Debug\net8.0\ref\TapeEquilibrium.dll
